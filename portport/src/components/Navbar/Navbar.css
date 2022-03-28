@@ -1,0 +1,9 @@
+.Navbar ul li{
+    display: flex;
+    list-style-type: none;
+    display: inline;
+    padding: 14px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+}
