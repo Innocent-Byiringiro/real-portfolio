@@ -1,3 +1,4 @@
+
 .about{
     height: 100vh;
     display: flex;
@@ -22,9 +23,10 @@
     background-color: #333;
 }
 .about-card{
-    width: 60%;
+    /* width: 60%; */
     height: 70vh;
     border-radius: 30px;
+    margin-right: 200px;
     position: relative;
 }
 .about-img{

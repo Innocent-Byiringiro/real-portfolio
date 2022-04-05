@@ -30,6 +30,9 @@
     height: 50px;
     overflow: hidden;
 }
+.intro-desc{
+    font-size: 24px;
+}
 .intro-title-wrapper{
     height: 100%;
     animation: move 10s ease-in-out infinite alternate;

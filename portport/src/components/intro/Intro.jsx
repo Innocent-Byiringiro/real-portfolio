@@ -20,8 +20,7 @@ const intro = () => {
                </div>
                <p className="intro-desc">
                    I design basic frontend websites and give them some really coool
-                   designs and stuff. You can hire me by reaching out through the 
-                   provided contacts down here.
+                   designs and stuff. Reach out to me and have a quick chat.
                </p>
            </div>
        </div>

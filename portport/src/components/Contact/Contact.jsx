@@ -40,15 +40,15 @@ const Contact = () => {
               <div className="c-info">
                   <div className="c-info-item">
                       <img src={Phone} alt="" className="c-icon" />
-                      +250783801791
+                      innocent byiringiro
                   </div>
                   <div className="c-info-item">
                       <img src={Email} alt="" className="c-icon" />
-                      ibyiringiro99@gmail.com
+                      ibyiringiro99@gmail.com 
                   </div>
                   <div className="c-info-item">
                       <img src={Address} alt="" className="c-icon" />
-                      100KG Gasabo Street, Kigali City
+                     Innocent Byiringiro
                   </div>
               </div>
           </div>
